@@ -1,7 +1,7 @@
 class Customer:
 
 
-    def __init__(self, name: int, food: int) -> None:
+    def __init__(self, name: int, food: str) -> None:
         self.name = name
         self.food = food
 
